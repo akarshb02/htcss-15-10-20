@@ -3,7 +3,7 @@
 A Simple Resume using html & css(Basic)
 
 
-##Usage
+## Usage
 
 html
 css
