@@ -1,5 +1,9 @@
 # html-css
-Web development basics
+
+A Simple Resume using html & css(Basic)
 
 
-Basics of html & css with syntax
+##Usage
+
+html
+css
